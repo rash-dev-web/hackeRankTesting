@@ -22,13 +22,7 @@ public class Day1DataType {
 		String ss = "";
 		ss = scan.next();
 		ss = ss + scan.nextLine();
-		/*
-		 * while(scan.hasNext()){ name+=scan.nextLine(); }
-		 * 16 
-		 * 8.0 
-		 * HackerRank is the best place to learn and practice coding!
-		 */
-
+		
 		System.out.println(i + ii);
 		System.out.println(d + dd);
 		System.out.println(s + " " + ss);
